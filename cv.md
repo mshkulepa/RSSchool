@@ -17,7 +17,7 @@
 + *Ukrainian - **B2***
 
 ### Portfolio 
-+ *https://github.com/mshkulepa/Dostavka2.git*###Education
++ *https://github.com/mshkulepa/Dostavka2.git*
 
 ### Education
 + *2020 **IT-Academy** / HTML, CSS, Javascript*
